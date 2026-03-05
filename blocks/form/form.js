@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { toCamelCase, toClassName } from '../../scripts/aem.js';
 
 /**
