@@ -323,3 +323,24 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+.primary-btn {
+    text-align: center;
+}
+
+.primary-btn a{
+    border-color: #cf2230;
+    background: #cf2230;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 1.04167vw;
+    padding: .52083vw 1.5625vw;
+    -webkit-transition: all 1s linear;
+    transition: all 1s linear;
+    text-decoration: none;
+}
+
+.primary-btn a:hover{
+  background: #000;
+  color: #fff;
+}
